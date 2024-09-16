@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project
+# About my-first-project on GitHub
+# Its a website template for travelling
